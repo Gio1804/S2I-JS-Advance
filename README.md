@@ -17,8 +17,8 @@ Benvenuti nel mio progetto Start2Impact/JavaScript Advanced. Questo app, realizz
 ![Counter App Preview](/src/img/preview.gif)
 
 ## Link al Progetto
-- Puoi provare il mio counter attraverso questo [link](https://s2i-counter.netlify.app/)
-- Puoi trovare il progetto completo sul mio [GitHub Repository](https://github.com/Gio1804/S2I-counter)
+- Puoi provare il mio counter attraverso questo [link](https://s2i-js-advanced.netlify.app/)
+- Puoi trovare il progetto completo sul mio [GitHub Repository](https://github.com/Gio1804/S2I-JS-Advance)
 
 ## Licenza
 Questo progetto è distribuito con la licenza MIT. 
