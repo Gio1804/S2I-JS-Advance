@@ -3,7 +3,11 @@
 ![App Screenshot](/src/img/Screenshot.png)
 
 ## Introduzione
-Benvenuti nel mio progetto Start2Impact/JavaScript Advanced. Questo app, realizzato in JavaScript, permette di cercare una città e tramite una chiamata API a Teleport si potranno avere i punteggi riguardanti la qualità della vita di quella determinata città.
+Benvenuti nel mio progetto Start2Impact/JavaScript Advanced. Questa app, realizzata in JavaScript, ti offre l'opportunità di esplorare e confrontare la qualità della vita nelle città di tutto il mondo. Inserisci il nome di una città e otterrai immediatamente informazioni dettagliate, compresi punteggi specifici nelle diverse categorie come ambiente, salute, sicurezza e altro ancora.
+
+I vantaggi? Un modo rapido e intuitivo per scoprire cosa rende un luogo unico e adatto al tuo stile di vita. Semplice, veloce e informativo.
+
+Prova subito a cercare la tua città e scopri il mondo attraverso i suoi punteggi di qualità della vita!
 
 ## Installazione
 1. Clona questa repository: `https://github.com/Gio1804/S2I--JS-Advanced.git`
